@@ -3,7 +3,7 @@
 <hr>
 
 <p>
-<a href="https://mxcrpntr.github.io/JSProject/">Word Ladder Generator</a> is an interactive data visualization project utilizing a dictionary wordlist text file and some tree traversal algorithms to construct <a href="https://en.wikipedia.org/wiki/Word_ladder">word ladders</a> and generate (often massive) radial tree visualizations of the word ladder search trees using JavaScript and d3.
+<a href="https://mxcrpntr.github.io/WordLadder/">Word Ladder Generator</a> is an interactive data visualization project utilizing a dictionary wordlist text file and some tree traversal algorithms to construct <a href="https://en.wikipedia.org/wiki/Word_ladder">word ladders</a> and generate (often massive) radial tree visualizations of the word ladder search trees using JavaScript and d3.
 </p>
 
 <br>
